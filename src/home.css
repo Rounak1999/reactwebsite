@@ -1,0 +1,15 @@
+
+ul{
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    float: right;
+    z-index: 1;
+    position: relative;
+}
+ul li {
+  padding-right: 50px;
+  padding-top: 30px;
+   font-weight: bold;
+}
